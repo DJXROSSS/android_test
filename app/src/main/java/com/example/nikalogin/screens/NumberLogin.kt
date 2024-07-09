@@ -106,7 +106,7 @@ fun NumberLogin() {
                                 .height(64.dp)
                                 .padding(top = 8.dp)
                         ) {
-                            Text("Get OTP")
+                            Text("Get OTP", fontSize = 10.sp)
                         }
                     }
                 }
